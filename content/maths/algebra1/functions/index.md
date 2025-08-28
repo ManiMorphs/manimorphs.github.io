@@ -20,11 +20,11 @@ math: true
 
 #### Types of Functions
 
-| Type of Function       | Notation                                                                                                                          | Description                                                                 | Example                                                                                 |
-| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Type of Function       | Notation                                                                                                                            | Description                                                                     | Example                                                                                   |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | Linear Function        | \\( f(x) = mx + b \\)                                                                                                               | A straight line with slope \\( m \\) and y-intercept \\( b \\).                 | \\( f(x) = 2x + 3 \\)                                                                     |
-| Quadratic Function     | \\( f(x) = ax^2 + bx + c \\)                                                                                                        | A parabola with a vertex and axis of symmetry.                              | \\( f(x) = x^2 - 4 \\)                                                                    |
-| Piecewise Function     | \\( f(x) = \begin{cases} \text{expression 1} & \text{if condition 1} \\ \text{expression 2} & \text{if condition 2} \end{cases} \\) | A function defined by different expressions over different intervals.       | \\( f(x) = \begin{cases} x & \text{if } x \geq 0 \\ -x & \text{if } x < 0 \end{cases} \\) |
+| Quadratic Function     | \\( f(x) = ax^2 + bx + c \\)                                                                                                        | A parabola with a vertex and axis of symmetry.                                  | \\( f(x) = x^2 - 4 \\)                                                                    |
+| Piecewise Function     | \\( f(x) = \begin{cases} \text{expression 1} & \text{if condition 1} \\ \text{expression 2} & \text{if condition 2} \end{cases} \\) | A function defined by different expressions over different intervals.           | \\( f(x) = \begin{cases} x & \text{if } x \geq 0 \\ -x & \text{if } x < 0 \end{cases} \\) |
 | Machine Learning Model | \\( y = f(\mathbf{x}) \\)                                                                                                           | A function mapping input features \\( \mathbf{x} \\) to a prediction \\( y \\). | \\( \text{Price} = f(\text{Size, Location}) \\)                                           |
 
 ### Examples
@@ -100,9 +100,13 @@ math: true
     -   **Solution**:
 
         1. Substitute \\( \text{Size} = 1200 \\) into the function:
-           \[
-           \text{Price} = 150 \times 1200 + 50,000 = 180,000 + 50,000 = 230,000
-           \]
+           \\[
+           \begin{align}
+           \text{Price} = 150 \times 1200 + 50,000 \\\\
+           = 180,000 + 50,000 \\\\
+           = 230,000
+           \end{align}
+           \\]
         2. The predicted price is \$230,000.
 
 ## Key Takeaways

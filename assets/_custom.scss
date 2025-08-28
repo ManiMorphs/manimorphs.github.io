@@ -1,11 +1,13 @@
 /* Modern Color Palette & Variables */
 :root {
     /* Core Theme Colors */
-    --primary: #6366f1;
-    --primary-light: #8b5cf6;
-    --primary-dark: #4338ca;
-    --accent: #06b6d4;
-    --accent-light: #22d3ee;
+    --primary: #01579b; /* Your base */
+    --primary-light: #42a5f5; /* Sky blue */
+    --primary-dark: #002f6c; /* Deep navy */
+    --accent: #29b6f6; /* Light blue accent */
+    --accent-light: #81d4fa; /* Pale blue */
+    --secondary: #1565c0; /* Medium blue */
+    --tertiary: #e3f2fd; /* Very light blue */
     --success: #10b981;
     --warning: #f59e0b;
     --danger: #ef4444;
@@ -33,16 +35,24 @@
     --border-muted: #f1f5f9;
 
     /* Math Admonition Colors - Light */
-    --definition-bg: #fef3c7;
-    --definition-border: #d97706;
-    --theorem-bg: #ddd6fe;
-    --theorem-border: #7c3aed;
-    --proof-bg: #fce7f3;
-    --proof-border: #be185d;
-    --example-bg: #d1fae5;
-    --example-border: #059669;
-    --lemma-bg: #e0f2fe;
-    --lemma-border: #0284c7;
+    --definition-bg: #fff3e0; /* Light orange */
+    --definition-border: #ef6c00; /* Orange */
+
+    /* Theorem - Your primary blue */
+    --theorem-bg: #e3f2fd; /* Light blue */
+    --theorem-border: #01579b; /* Your primary */
+
+    /* Proof - Purple academic */
+    --proof-bg: #f3e5f5; /* Light purple */
+    --proof-border: #7b1fa2; /* Purple */
+
+    /* Example - Green success */
+    --example-bg: #e8f5e9; /* Light green */
+    --example-border: #2e7d32; /* Green */
+
+    /* Lemma - Cyan fresh */
+    --lemma-bg: #e0f2f1; /* Light teal */
+    --lemma-border: #00695c; /* Teal */
 
     /* Shadows & Effects */
     --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
@@ -95,6 +105,12 @@ html[data-theme="dark"] body,
     --text-muted: #94a3b8;
     --border: #334155;
     --border-muted: #1e293b;
+
+    --primary-dark-theme: #1976d2; /* Brighter in dark */
+    --primary-light-dark: #64b5f6; /* Even brighter */
+    --accent-dark-theme: #29b6f6; /* Cyan accent */
+    --surface-dark: #121212; /* True dark */
+    --surface-elevated-dark: #1e1e1e; /* Elevated dark */
 
     --definition-bg: #451a03;
     --theorem-bg: #2e1065;
@@ -287,7 +303,7 @@ body {
 
 /* Clean Table Design */
 .markdown table {
-    width: fit-content;
+    width: auto;
     border-collapse: separate;
     border-spacing: 0;
     margin: 2rem 0;
