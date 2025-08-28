@@ -1,0 +1,16 @@
+baseURL = 'https://manimorphs.github.io/'
+languageCode = 'en-us'
+title = 'ManiMorphs'
+theme = "hugo-book"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+[params]
+  BookSection = '*'
+  math = false

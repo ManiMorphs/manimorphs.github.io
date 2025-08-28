@@ -1,0 +1,74 @@
+site_name: ManiMorphs
+theme:
+  name: "material"
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+  favicon: img/favicon.ico
+  logo: img/logo.png
+  font:
+    text: Source Sans 3
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css
+  - stylesheets/custom.css
+nav:
+  - Home: index.md
+  - Maths:
+    - Pre-Algebra:
+      - Whole Numbers: maths/pre-algebra/whole-numbers.md
+      - Integers: maths/pre-algebra/integers.md
+      - Number Concepts: maths/pre-algebra/foundational-number-concepts.md
+      - Fractions: maths/pre-algebra/fractions.md
+      - Ratios, Rates & Proportions: maths/pre-algebra/ratios-rates-and-proportions.md
+      - Decimals: maths/pre-algebra/decimals.md
+      - Percentages & Basic Statistics: maths/pre-algebra/percentages-and-basic-statistics.md
+      - Measurement: maths/pre-algebra/measurement.md
+    - Algebra 1:
+      - Linear Equations: maths/algebra1/linear-equations.md
+      - Linear Inequalities: maths/algebra1/linear-inequalities.md
+      - Graphing: maths/algebra1/graphing.md
+      - Functions: maths/algebra1/functions.md
+      - Linear Systems: maths/algebra1/linear-systems.md
+      - Exponents: maths/algebra1/exponents.md
+      - Polynomials: maths/algebra1/polynomials.md
+      - Factoring: maths/algebra1/factoring.md
+      - Rational Expressions: maths/algebra1/rational-expressions.md
+      - Radicals: maths/algebra1/radicals.md
+      - Quadratic Equations: maths/algebra1/quadratic-equations.md
+    - Algebra 2:
+      - Sets: maths/algebra2/sets.md
+      - Linear Equations: maths/algebra2/linear_equations.md
+  - Artificial Intelligence:
+    - Foundational Concepts:
+      - What is Artificial Intelligence?: ai/foundational-concepts/what-is-artificial-intelligence.md
+      - History of AI: ai/foundational-concepts/history-of-ai.md
+      - Introduction to Machine Learning: ai/foundational-concepts/introduction-to-machine-learning.md
+      - Supervised Learning: ai/foundational-concepts/supervised-learning.md
+      - Unsupervised Learning: ai/foundational-concepts/unsupervised-learning.md
+      - Reinforcement Learning: ai/foundational-concepts/reinforcement-learning.md
+    - Essential Mathematics:
+      - Linear Algebra Basics: ai/essential-math/linear-algebra-basics.md
+      - More Linear Algebra: ai/essential-math/more-linear-algebra.md
+      - Calculus Basics: ai/essential-math/calculus-basics.md
+      - Probability Basics: ai/essential-math/probability-basics.md
+      - Statistics Basics: ai/essential-math/statistics-basics.md
