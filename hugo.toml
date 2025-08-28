@@ -13,4 +13,5 @@ theme = "hugo-book"
           inline = [['\(', '\)']]
 [params]
   BookSection = '*'
+  BookLogo = 'logo.png'
   math = false
