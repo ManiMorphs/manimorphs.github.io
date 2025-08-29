@@ -1,6 +1,7 @@
 ---
 title: "Whole Numbers"
 math: true
+weight: 1
 ---
 
 # **Whole Numbers**

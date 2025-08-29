@@ -1,3 +1,7 @@
+---
+weight: 4
+---
+
 # **Probability Basics**
 
 ## Explain the concept of probability with simple examples (like flipping a coin).

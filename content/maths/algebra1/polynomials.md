@@ -1,6 +1,7 @@
 ---
 title: "Polynomials"
 math: true
+weight: 7
 ---
 
 # **Polynomials**

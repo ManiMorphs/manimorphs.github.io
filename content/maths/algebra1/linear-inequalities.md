@@ -1,6 +1,7 @@
 ---
 title: "Linear Inequalities"
 math: true
+weight: 2
 ---
 
 # **Linear Inequalities**

@@ -1,3 +1,7 @@
+---
+weight: 2
+---
+
 # **More Linear Algebra: Dot Product and Transpose**
 
 ## Explain the dot product of two vectors and what it represents geometrically.

@@ -1,6 +1,7 @@
 ---
 title: "Integers"
 math: true
+weight: 2
 ---
 
 # **Integers**

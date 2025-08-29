@@ -1,6 +1,7 @@
 ---
 title: "Measurement"
 math: true
+weight: 8
 ---
 
 # **Measurement**

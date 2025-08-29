@@ -1,6 +1,7 @@
 ---
 title: Radicals
 math: true
+weight: 10
 ---
 
 # **Radicals**

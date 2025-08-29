@@ -1,6 +1,7 @@
 ---
 title: "Graphing"
 math: true
+weight: 3
 ---
 
 # **Graphing**

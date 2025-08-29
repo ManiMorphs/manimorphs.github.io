@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # **What is Artificial Intelligence?**
 
 ## Explain what Artificial Intelligence (AI) is in simple terms?

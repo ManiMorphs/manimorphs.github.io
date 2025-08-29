@@ -1,6 +1,7 @@
 ---
 title: "Functions"
 math: true
+weight: 4
 ---
 
 # **Functions**

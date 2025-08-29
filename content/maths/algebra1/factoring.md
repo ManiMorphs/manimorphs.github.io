@@ -1,6 +1,7 @@
 ---
 title: "Factoring"
 math: true
+weight: 8
 ---
 
 # **Factoring**

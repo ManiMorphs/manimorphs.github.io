@@ -1,6 +1,7 @@
 ---
 title: Quadratic Equations
 math: true
+weight: 11
 ---
 
 # **Quadratic Equations**

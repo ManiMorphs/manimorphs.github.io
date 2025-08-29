@@ -1,3 +1,7 @@
+---
+weight: 2
+---
+
 # **History of AI**
 
 ## A Timeline of Artificial Intelligence: Key Milestones

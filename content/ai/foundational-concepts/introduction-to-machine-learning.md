@@ -1,3 +1,7 @@
+---
+weight: 3
+---
+
 # **Introduction to Machine Learning (ML)**
 
 ## Explain Machine Learning (ML) in simple terms and how it relates to AI.

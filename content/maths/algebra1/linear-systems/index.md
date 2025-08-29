@@ -1,6 +1,7 @@
 ---
 title: "Linear Systems"
 math: true
+weight: 5
 ---
 # **Linear Systems**
 

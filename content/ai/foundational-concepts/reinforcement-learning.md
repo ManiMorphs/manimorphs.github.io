@@ -1,3 +1,7 @@
+---
+weight: 6
+---
+
 # **Reinforcement Learning (RL)**
 
 ## Explain Reinforcement Learning with a simple example (like training a pet).

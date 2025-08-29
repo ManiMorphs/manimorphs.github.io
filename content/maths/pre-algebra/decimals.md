@@ -1,6 +1,7 @@
 ---
 title: "Decimals"
 math: true
+weight: 6
 ---
 
 # **Decimals**

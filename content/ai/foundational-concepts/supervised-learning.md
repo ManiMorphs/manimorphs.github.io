@@ -1,3 +1,7 @@
+---
+weight: 4
+---
+
 # **Supervised Learning**
 
 ## Explain Supervised Learning with a simple example.

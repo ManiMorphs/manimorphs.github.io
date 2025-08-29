@@ -1,6 +1,7 @@
 ---
 title: "Linear Equations"
 math: true
+weight: 2
 ---
 
 # **Linear Equations**

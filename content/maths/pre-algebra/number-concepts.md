@@ -1,6 +1,7 @@
 ---
-title: "Foundational Number Concepts"
+title: "Number Concepts"
 math: true
+weight: 3
 ---
 
 # **Foundational Number Concepts**

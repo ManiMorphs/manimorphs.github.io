@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # **Linear Algebra Basics**
 
 ## Explain what a vector is in linear algebra with a simple visual analogy.

@@ -1,6 +1,7 @@
 ---
 title: "Fractions"
 math: true
+weight: 4
 ---
 
 # **Fractions**

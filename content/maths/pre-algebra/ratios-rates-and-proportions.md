@@ -1,6 +1,7 @@
 ---
 title: "Ratios, Rates & Proportions"
 math: true
+weight: 5
 ---
 
 # **Ratios, Rates, and Proportions**

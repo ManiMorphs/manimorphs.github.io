@@ -1,5 +1,6 @@
 ---
 title: "Exponents"
+weight: 6
 ---
 
 # **Exponents**

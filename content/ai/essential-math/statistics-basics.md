@@ -1,3 +1,7 @@
+---
+weight: 5
+---
+
 # **Statistics Basics**
 
 ## Explain the concepts of mean, median, and mode with simple examples.

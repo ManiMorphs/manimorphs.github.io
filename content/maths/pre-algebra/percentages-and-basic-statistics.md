@@ -1,6 +1,7 @@
 ---
 title: "Percentages & Basic Statistics"
 math: true
+weight: 7
 ---
 
 # **Percentages and Basic Statistics**

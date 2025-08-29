@@ -1,6 +1,7 @@
 ---
 title: Rational Expressions
 math: true
+weight: 9
 ---
 
 # **Rational Expressions**

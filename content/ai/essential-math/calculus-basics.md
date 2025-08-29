@@ -1,3 +1,7 @@
+---
+weight: 3
+---
+
 # **Calculus Basics: Functions and Derivatives**
 
 ## Explain what a function is in calculus with a simple example.
