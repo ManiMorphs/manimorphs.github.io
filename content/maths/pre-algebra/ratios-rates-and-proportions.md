@@ -6,10 +6,6 @@ weight: 5
 
 # **Ratios, Rates, and Proportions**
 
-Here's a clear, step-by-step breakdown of **Ratios, Rates, and Proportions** for pre-algebra students, with simple definitions and multiple examples:
-
----
-
 ## **Chapter 36: Ratios & Rates**
 
 ### **Definitions**

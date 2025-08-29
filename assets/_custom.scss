@@ -262,7 +262,9 @@ body {
 }
 
 .markdown pre {
-    background: var(--surface-elevated);
+    font-family: "JetBrains Mono", "Fira Code", monospace;
+    background: var(--surface-elevated) !important;
+    color: var(--primary-dark) !important;
     border: 1px solid var(--border);
     border-radius: 8px;
     padding: 1.5rem;
