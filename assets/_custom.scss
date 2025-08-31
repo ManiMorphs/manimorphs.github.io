@@ -143,6 +143,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.book-icon {
+    filter: none;
+}
+
 /* Clean Content Area */
 .book-page {
     background: var(--surface);
